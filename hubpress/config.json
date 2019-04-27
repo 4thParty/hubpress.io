@@ -2,7 +2,8 @@
   "meta": {
     "username": "4thParty",
     "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "EnergyBot Blog",
+    "description": "EnergyBot's take on the energy industry",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "hello@energybot.com.au",
+    "github": "",
+    "twitter": "@energybotaust",
+    "facebook": "EnergyBot.Australia",
+    "googleplus": "",
+    "instagram": "@EnergyBot",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
