@@ -1,0 +1,30 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+= Victorian Default Offer
+:published_at: 1 May 2019
+:hp-tags: VDO
+From 1 July this year, the Victorian retail electricity market will have a new regulatory intevention in place - the Vitorian Default Offer (VDO) mandates a fixed maximum price that retailer can charge to customers who are on on 'standing offers'. 
+
+A Standing Offer is a default contract that retailers must make available to those consumers who have not opted into a 'Market Offer'. Standing Offers apply to 3 kinds of customers:
+
+* Customers who have never switched their electricity supplier since deregulation 
+* Customers whose Market Offer has expired
+* Customers who have moved into new premises and are consuming eelectricity but have not yet signed up to a Market Offer. THese customers are deemed to be on the Standing Offer for the incumbent retailer at those preises
+
+Previously, retailers could set their own Standing Offer price, and would use that price as the baseline to discounts from. So a retailer could artificially set a high Standing Offer price, then publicise a seemingly great discount against that price for their Market Offers. 
+
+From 1 July, the Victorian Essential Services Commission will replace the Standing Offer with the new VDO
+
+https://www.theage.com.au/national/victoria/andrews-will-put-us-out-of-business-power-companies-say-20190430-p51iqt.html[The Age reports] that Victorian default offer has come under criticism from the energy market lobby arguing that the VDO will have adverse consequences for competition and price-sensitive customers and will drive some retailers out of the market and prevent others from entering it in the future.
+
+== EnergyBot's PoV
+
+The VDO will decrease the prices retailers can charge to their most unengaged customers. While this can be seen as a positive for vulnerable cnsumers who have not been able to enagge in the retail market effectively, it does reduce the revenue expectation from ratilers, and so will put pressure on their ability to offer sharper prices to more engaged consumers. 
+
+I expect that we'll see increases in the Market Offeres as a result of these decreases is Standing Offers - disengaged customers will be better off, but actively engaed energy consumers will wind up paying more than previously.
+
+Whatever the case, there remains confusion and wide choice in the market, and I'm here to amke that simple. Upload your bill to BillUpload.EnergyBot.com.au and I'll let you know hoew much yu can save
