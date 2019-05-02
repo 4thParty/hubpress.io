@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "roon"
   },
   "urls": {
     "site": "https://4thParty.github.io/hubpress.io",
     "hubpress": "https://4thparty.github.io/hubpress.io",
-    "theme": "//4thParty.github.io/hubpress.io/themes/saga",
+    "theme": "//4thParty.github.io/hubpress.io/themes/ichi",
     "images": "https://4thParty.github.io/hubpress.io/images"
   },
   "initialisationConfigComponent": {
