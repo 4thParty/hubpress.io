@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[EnergyBot Blog]]></title><description><![CDATA[EnergyBot's take on the energy industry]]></description><link>https://4thParty.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 02 May 2019 01:45:44 GMT</lastBuildDate><atom:link href="https://4thParty.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[First blog post]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[EnergyBot Blog]]></title><description><![CDATA[EnergyBot's take on the energy industry]]></description><link>https://4thParty.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 02 May 2019 02:05:44 GMT</lastBuildDate><atom:link href="https://4thParty.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[First blog post]]></title><description><![CDATA[<div class="paragraph">
 <p>Some content here.
 MOre contemt.</p>
 </div>
@@ -9,4 +9,49 @@ MOre contemt.</p>
 </div>
 <div class="paragraph">
 <p>Lorum Ipsum blah blah Lorum Ipsum blah blah Lorum Ipsum blah blahLorum Ipsum blah blah Lorum Ipsum blah blah Lorum Ipsum blah blah Lorum Ipsum blah blah Lorum Ipsum blah blah Lorum Ipsum blah blah Lorum Ipsum blah blah Lorum Ipsum blah blah Lorum Ipsum blah blah</p>
-</div>]]></description><link>https://4thParty.github.io/hubpress.io/2019/04/27/A-second-post-would-go-here.html</link><guid isPermaLink="true">https://4thParty.github.io/hubpress.io/2019/04/27/A-second-post-would-go-here.html</guid><dc:creator><![CDATA[Richard Foxworthy]]></dc:creator><pubDate>Sat, 27 Apr 2019 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://4thParty.github.io/hubpress.io/2019/04/27/A-second-post-would-go-here.html</link><guid isPermaLink="true">https://4thParty.github.io/hubpress.io/2019/04/27/A-second-post-would-go-here.html</guid><dc:creator><![CDATA[Richard Foxworthy]]></dc:creator><pubDate>Sat, 27 Apr 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[Victorian Default Offer]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>A Standing Offer is a default contract that retailers must make available to those consumers who have not opted into a 'Market Offer'. Standing Offers apply to 3 kinds of customers:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Customers who have never switched their electricity supplier since deregulation</p>
+</li>
+<li>
+<p>Customers whose Market Offer has expired</p>
+</li>
+<li>
+<p>Customers who have moved into new premises and are consuming eelectricity but have not yet signed up to a Market Offer. THese customers are deemed to be on the Standing Offer for the incumbent retailer at those preises</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Previously, retailers could set their own Standing Offer price, and would use that price as the baseline to discounts from. So a retailer could artificially set a high Standing Offer price, then publicise a seemingly great discount against that price for their Market Offers.</p>
+</div>
+<div class="paragraph">
+<p>From 1 July, the Victorian Essential Services Commission will replace the Standing Offer with the new VDO</p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.theage.com.au/national/victoria/andrews-will-put-us-out-of-business-power-companies-say-20190430-p51iqt.html">The Age reports</a> that Victorian default offer has come under criticism from the energy market lobby arguing that the VDO will have adverse consequences for competition and price-sensitive customers and will drive some retailers out of the market and prevent others from entering it in the future.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_energybot_s_pov">EnergyBot&#8217;s PoV</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><span class="image"><img src="https://user-images.githubusercontent.com/1432373/57053407-1eab0580-6cd1-11e9-801d-577a5472c96f.png" alt="EnergyBot"></span></p>
+</div>
+<div class="paragraph">
+<p>The VDO will decrease the prices retailers can charge to their most unengaged customers. While this can be seen as a positive for vulnerable cnsumers who have not been able to enagge in the retail market effectively, it does reduce the revenue expectation from ratilers, and so will put pressure on their ability to offer sharper prices to more engaged consumers.</p>
+</div>
+<div class="paragraph">
+<p>I expect that we&#8217;ll see increases in the Market Offeres as a result of these decreases is Standing Offers - disengaged customers will be better off, but actively engaed energy consumers will wind up paying more than previously.</p>
+</div>
+<div class="paragraph">
+<p>Whatever the case, there remains confusion and wide choice in the market, and I&#8217;m here to amke that simple. Upload your bill to BillUpload.EnergyBot.com.au and I&#8217;ll let you know hoew much yu can save.</p>
+</div>
+</div>
+</div>]]></description><link>https://4thParty.github.io/hubpress.io1-May-2019-Victorian-Default-Offer.adoc</link><guid isPermaLink="true">https://4thParty.github.io/hubpress.io1-May-2019-Victorian-Default-Offer.adoc</guid><category><![CDATA[VDO]]></category><dc:creator><![CDATA[Richard Foxworthy]]></dc:creator><pubDate>Tue, 30 Apr 2019 14:00:00 GMT</pubDate></item></channel></rss>
