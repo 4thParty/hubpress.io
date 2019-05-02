@@ -31,11 +31,11 @@
   "site": {
     "title": "EnergyBot Blog",
     "description": "EnergyBot's take on the energy industry",
-    "logo": "/images/energybot-logo@2x.png",
+    "logo": "/hubpress.io/images/energybot-logo@2x.png",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
-    "blogPath": "hubpress.io/",
+    "blogPath": "",
     "googleAnalytics": "",
     "disqus": "energybotblog"
   },
@@ -53,5 +53,10 @@
     "paypalme": "",
     "opencollective": ""
   },
-  "navigation": []
+  "navigation": [
+    {
+      "label": "Bill Upload",
+      "url": "https://billupload.energybot.com.au"
+    }
+  ]
 }
