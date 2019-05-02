@@ -5,6 +5,7 @@
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
 = Victorian Default Offer
+:hp-image: http://github.com/4thparty/hubpress.io/images/energybot-logo@2x.png
 :published_at: 2019-04-01
 :hp-tags: VDO
 
