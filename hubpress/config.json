@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "saga"
   },
   "urls": {
     "site": "https://4thParty.github.io/hubpress.io",
     "hubpress": "https://4thparty.github.io/hubpress.io",
-    "theme": "//4thParty.github.io/hubpress.io/themes/uno-zen",
+    "theme": "//4thParty.github.io/hubpress.io/themes/ghostium",
     "images": "https://4thParty.github.io/hubpress.io/images"
   },
   "initialisationConfigComponent": {
