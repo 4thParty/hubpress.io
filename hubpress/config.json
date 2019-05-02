@@ -31,7 +31,7 @@
   "site": {
     "title": "EnergyBot Blog",
     "description": "EnergyBot's take on the energy industry",
-    "logo": "/hubpress.io/images/energybot-logo@2x.png",
+    "logo": "/hubpress.io/images/energybot.png",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
@@ -57,6 +57,10 @@
     {
       "label": "Bill Upload",
       "url": "https://billupload.energybot.com.au"
+    },
+    {
+      "label": "Explore Prices",
+      "url": "https://energybot.com.au/explore"
     }
   ]
 }
