@@ -6,7 +6,7 @@
     "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "https://4thParty.github.io/hubpress.io",
@@ -31,7 +31,7 @@
   "site": {
     "title": "EnergyBot Blog",
     "description": "EnergyBot's take on the energy industry",
-    "logo": "",
+    "logo": "/images/energybot-logo@2x.png",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
