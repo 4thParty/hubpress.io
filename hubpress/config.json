@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "ichi"
   },
   "urls": {
     "site": "https://4thParty.github.io/hubpress.io",
     "hubpress": "https://4thparty.github.io/hubpress.io",
-    "theme": "//4thParty.github.io/hubpress.io/themes/ghostium",
+    "theme": "//4thParty.github.io/hubpress.io/themes/saga",
     "images": "https://4thParty.github.io/hubpress.io/images"
   },
   "initialisationConfigComponent": {
