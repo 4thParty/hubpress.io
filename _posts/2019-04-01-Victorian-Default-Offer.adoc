@@ -5,11 +5,11 @@
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
 = Victorian Default Offer
-:hp-image: http://github.com/4thparty/hubpress.io/images/energybot-logo@2x.png
+:hp-image: hubpress.io/images/energybot-logo@2x.png
 :published_at: 2019-04-01
 :hp-tags: VDO
 
-From 1 July this year, the Victorian retail electricity market will have a new regulatory intevention in place - the Victorian Default Offer (VDO) mandates a fixed maximum price that retailer can charge to customers who are on on 'standing offers'. 
+From 1 July this year, the Victorian retail electricity market will have a new regulatory intervention in place - the Victorian Default Offer (VDO) mandates a fixed maximum price that retailer can charge to customers who are on on 'standing offers'. 
 
 A Standing Offer is a default contract that retailers must make available to those consumers who have not opted into a 'Market Offer'. Standing Offers apply to 3 kinds of customers:
 
